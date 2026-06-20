@@ -1,16 +1,22 @@
-## Hi there 👋
+## Gaétan La Selve
 
-<!--
-**CodeByGaetan/CodeByGaetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Développeur Full-Stack — Java / Spring Boot · Angular · iOS**
 
-Here are some ideas to get you started:
+Ingénieur de formation devenu développeur full-stack. Je conçois des applications web
+en Java/Spring Boot et Angular, et des applications iOS en Swift, du back-end jusqu'à
+la mise en ligne. Aujourd'hui sur des solutions SaaS de monitoring industriel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'intègre le développement assisté par IA à mon travail comme un levier de productivité
+et de qualité — les décisions d'architecture restent les miennes.
+
+### Stack
+`Java` · `Spring Boot` · `Angular` · `TypeScript` · `PostgreSQL` · `Docker` ·
+`C# / .NET` · `Swift / SwiftUI`
+
+### À voir
+- 🌐 **Portfolio** — https://codebygaetan.fr
+- 💼 **LinkedIn** — https://www.linkedin.com/in/laselvegaetan
+- 📱 **App Store** — applications iOS publiées (Fitime, IntuiFit)
+
+### Me contacter
+codebygaetan@gmail.com
