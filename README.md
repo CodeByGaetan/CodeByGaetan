@@ -16,7 +16,7 @@ et de qualité — les décisions d'architecture restent les miennes.
 ### À voir
 - 🌐 **Portfolio** — https://codebygaetan.fr
 - 💼 **LinkedIn** — https://www.linkedin.com/in/laselvegaetan
-- 📱 **App Store** — applications iOS publiées (Fitime, IntuiFit)
+- 📱 **App Store** — [IntuiFit](https://apps.apple.com/fr/app/intuifit-suivi-muscu-rapide/id6777721637) · [Fitime](https://apps.apple.com/fr/app/fitime/id6449876288)
 
 ### Me contacter
 codebygaetan@gmail.com
